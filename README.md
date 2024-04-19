@@ -1,1 +1,1 @@
-# cardiac_disease_prediction
+This program aims to predict the likelihood of a patient developing cardiac disease within the next 10 years using machine learning models such as logistic regression and support vector machine (SVM).
